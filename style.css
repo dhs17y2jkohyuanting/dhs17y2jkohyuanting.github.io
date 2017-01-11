@@ -2,3 +2,10 @@ h1{
 color: brown;	
 }
 h2{color:red
+
+  body {
+    background-image: url("paper.gif");
+    background-color: #cccccc;
+}
+  
+  
